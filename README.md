@@ -1,1 +1,1 @@
-# Transfer-Learning-using-VGG16-for-feature-generation-and-prediction-using-SVM
+# Transfer_Learning_using_VGG16_for_feature_generation_and_image_classification_using_SVM
