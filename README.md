@@ -23,3 +23,6 @@ The one-vs-one and multilabel classifer are also compared using the cross valida
 # Resources
 The problem statement is taken from the 6th chapter of the book Fundamentals of Pattern Recognition and Machine Learning (Ulisses Braga-Neto) - Question 6.12.
 The data set is also available on the writers (Ulisses Braga-Neto) personal website. 
+
+## THe link to the data set used in this repository 
+https://drive.google.com/file/d/1zmhN_dqoxhOMUPCW0IAWL_7jYU7y0snF/view
